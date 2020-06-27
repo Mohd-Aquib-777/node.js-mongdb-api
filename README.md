@@ -3,9 +3,9 @@
 
 |Fields   | Type|   
 ----------|:--------------------:|
-|id       | int PK auto_increment|
-|name | varchar(50)          |
-|mobile | int         |
+|id       | auto_generate|
+|name     | String       |
+|mobile   | Number       |
 
 2. Install dependencies using npm as 'npm i express'
 
